@@ -1,16 +1,4 @@
 # RCLSTM
 
-The codes are shared under the condition that reproducing full or part of codes must cite the paper "Deep Learning with Long Short-Term Memory for Time Series Prediction"
+The codes are shared under the condition that reproducing full or part of codes must cite the paper Y. Hua, Z. Zhao, R. Li, X. Chen, Z. Liu, and H. Zhang, “Deep learning with long short-term memory for time series prediction,” IEEE Commun. Mag., vol. 57, no. 6, pp. 114–119, Jun. 2019, doi: 10.1109/MCOM.2019.1800155.
 
-@article{hua2019deeplearning,<br>
-author={Y. {Hua} and Z. {Zhao} and R. {Li} and X. {Chen} and Z. {Liu} and H. {Zhang}},<br>
-journal={IEEE Communications Magazine},<br> 
-title={Deep Learning with Long Short-Term Memory for Time Series Prediction},<br> 
-year={2019},<br> 
-volume={},<br> 
-number={},<br> 
-pages={1-6},<br> 
-keywords={Logic gates;Computer architecture;Neurons;Microprocessors;Time series analysis;Biological neural networks;Computational modeling},<br> 
-doi={10.1109/MCOM.2019.1800155},<br> 
-ISSN={0163-6804},<br> 
-month={},}
