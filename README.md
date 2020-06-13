@@ -1,7 +1,7 @@
 # RCLSTM (Deep learning with long short-term memory for time series prediction)
 
 The codes are consistent with the following paper:
-Y. Hua, Z. Zhao, R. Li, X. Chen, Z. Liu, and H. Zhang, “Deep learning with long short-term memory for time series prediction,” *IEEE Commun. Mag.*, vol. 57, no. 6, pp. 114–119, Jun. 2019, doi: 10.1109/MCOM.2019.1800155.
+Y. Hua, Z. Zhao, R. Li, X. Chen, Z. Liu, and H. Zhang, “Deep learning with long short-term memory for time series prediction,” *IEEE Commun. Mag.*, vol. 57, no. 6, pp. 114–119, Jun. 2019, doi: 10.1109/MCOM.2019.1800155. Note that this is a research project and by definition is unstable. Please write to us if you find something not correct or strange.
 
 We are sharing the codes under the condition that reproducing full or part of codes must cite the paper. 
 
